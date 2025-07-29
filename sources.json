@@ -4,7 +4,7 @@
     "active": true,
     "baseUrl": "https://www.51155.cc",
     "listUrl": "https://www.51155.cc/index.php/index/index/page/${page}.html",
-    "searchUrl": "https://51155.cc/index.php/vod/search/page/${page}/wd/${query}",
+    "searchUrl": "https://51155.cc/index.php/vod/search/page/${page}/wd/${query}.html",
     "videoItemSelector": ".myui-vodlist__box",
     "titleSelector": "a.myui-vodlist__thumb",
     "thumbnailSelector": "a.myui-vodlist__thumb[data-original]",
